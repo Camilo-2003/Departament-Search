@@ -1,0 +1,12 @@
+query {
+  categories(treeLevel: 3) {
+    id, 
+    name,
+    slug,
+    children {
+      id,
+      name,
+      slug
+    }
+  }
+}

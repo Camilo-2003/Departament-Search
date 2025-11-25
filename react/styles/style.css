@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.loading {
+  text-align: center;
+}
+.title {
+  display: block;
+  text-align: center;
+}
+select {
+  padding: 5px;
+  border-radius: 4px;
+}
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+}
