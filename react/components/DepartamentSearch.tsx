@@ -27,7 +27,8 @@ const DepartamentSearch = () => {
       <h2 className={handles.title}>Departamentos</h2>
       <div className={handles.container}>
         <DepartamentGroup 
-          departments={data?.categories[3]?.children}
+          // departments={data?.categories[3]?.children}
+          departments={data?.categories}
           handleSetSlug={setSlug}
         />
         <SearchBar 
