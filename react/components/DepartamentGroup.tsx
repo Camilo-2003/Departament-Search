@@ -13,7 +13,7 @@ const DepartamentGroup = ({ departments, handleSetSlug }: Departments) => {
        value={department.slug}
       >
         {department.name}
-      </option>
+      </option> 
     )
   })
 
