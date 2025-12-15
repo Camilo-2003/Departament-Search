@@ -1,7 +1,7 @@
 # 🔍 Componente Departament Search
 
 * [🚀 Visión General](#-visión-general)
-* [🏗️ Estructura y Uso](#-estructura-y-uso)
+* [🏗️ Instalación y Ejemplo de Uso](#-instalacion-y-ejemplo-de-uso)
     * [1. Dependencias](#1-dependencias)
     * [2. Declaración en Blocks](#2-declaración-en-blocks)
 * [📜 GraphQL Query](#-graphql-query)
