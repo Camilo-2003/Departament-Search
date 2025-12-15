@@ -7,6 +7,7 @@
 * [📜 GraphQL Query](#-graphql-query)
 * [⚙️ Funcionamiento y Lógica](#-funcionamiento-y-lógica)
 * [🎨 Personalización con CSS Handles](#-personalización-con-css-handles)
+* [🪪 Contribución y Licencia](#-contribución-y-licencia)
 
 
 
@@ -114,3 +115,7 @@ Si deseas contribuir con mejoras, reportar *bugs* o sugerir nuevas característi
 ###  📜 Licencia
 
 Este proyecto está bajo la **Licencia MIT**.
+
+> **[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)**
+
+> **[![Open Source](https://img.shields.io/badge/Open%20Source-yes-green.svg)](https://github.com/vtex-apps/whatsapp-button/blob/main/LICENSE)**
