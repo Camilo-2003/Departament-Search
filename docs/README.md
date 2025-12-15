@@ -33,6 +33,20 @@ El componente se declara como un bloque simple. No requiere propiedades (`props`
 
 Asegúrate de tener las siguientes aplicaciones en el `manifest.json` de tu tienda, además de las dependencias de React:
 
+```json
+// manifest.json de tu tienda
+"dependencies": {
+  "{vendor}.departament-search": "0.x"
+}
+
+// manifest.json del componente Departament Search
+"dependencies": {
+  "vtex.css-handles": "0.x",
+  "vtex.store-graphql": "2.x",
+  "vtex.store-components": "3.x"
+}
+```
+
 * `vtex.store-components` (Necesaria para usar `SearchBar`).
 * `vtex.store-graphql` (Necesaria para ejecutar la consulta GraphQL).
 * `vtex.css-handles` (Necesaria para usar CSS Handles).
